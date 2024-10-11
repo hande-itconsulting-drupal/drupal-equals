@@ -2,18 +2,8 @@
 
 # Tipos de "Group content" com rótulos incompletos a serem corrigidos
 declare -A group_content_types_to_fix=(
-  ["company-group_media-dw_document"]="Company: Group media (Document)"
-  ["company-group_membership"]="Company: Group membership"
-  ["company-group_node-events"]="Company: Group node (Eventos)"
-  ["company-group_node-hint"]="Company: Group node (Dicas)"
-  ["company-group_node-installation"]="Company: Group node (Building)"
-  ["company-group_node-landing_page"]="Company: Group node (Landing Page)"
-  ["company-group_node-news"]="Company: Group node (News)"
-  ["company-group_node-notifications"]="Company: Group node (Notifications)"
-  ["company-group_node-page"]="Company: Group node (Página)"
-  ["company-group_node-person"]="Company: Group node (Pessoa)"
-  ["company-group_node-tool"]="Company: Group node (Ferramentas)"
-  ["company-group_node-webform"]="Company: Group node (Webform)"
+  ["machine-name-group-content-a"]="New rotule"
+  ["machine-name-group-content-b"]="New rotule"  
 )
 
 # Loop através de cada tipo de "Group content" e corrigir os rótulos
