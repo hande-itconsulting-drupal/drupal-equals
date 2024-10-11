@@ -2,13 +2,8 @@
 
 # Array de tipos de "Crop" a serem deletados (use os nomes de máquina corretos listados anteriormente)
 crop_types_to_delete=(
-    "profile_image_crop"   
-    "default_crop"         
-    "crop_4_3"             
-    "crop_1_1"             
-    "crop_16_9"            
-    "cover_image_de_pagina"
-    "custom_managers_crop" 
+   "",
+   ""
 )
 
 # Função para verificar se uma tabela existe
