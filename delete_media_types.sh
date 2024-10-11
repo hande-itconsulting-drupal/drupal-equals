@@ -8,11 +8,7 @@ media_types_to_delete=(
     "remote_document"     
     "remote"              
     "multiple_documents"  
-    "image"               
-    "dw_document"         
-    "code_of_ethics_pdf"  
-    "code_of_ethics_image"
-    "svg_media_teste"
+    "image"
 )
 
 # Deletar registros de "Media"
