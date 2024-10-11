@@ -2,7 +2,7 @@
 
 # Array de tipos de "Crop" a serem deletados (use os nomes de máquina corretos listados anteriormente)
 crop_types_to_delete=(
-   "",
+   ""
    ""
 )
 
