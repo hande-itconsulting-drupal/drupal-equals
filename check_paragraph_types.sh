@@ -2,39 +2,8 @@
 
 # Lista de tipos de parágrafos a serem verificados
 paragraph_types=(
-  "text_widget_custom"
-  "action_or_tool_teaser"
-  "timeline_theme"
-  "profile_information"
-  "parallax_image"
-  "notification_translation"
-  "megateaser_pagina_externa"
-  "single_image"
-  "building_collaborators"
-  "image_with_text"
-  "facts_and_figures"
-  "custom_managers"
-  "item_with_image_or_icon"
-  "image"
-  "icon"
-  "document_teaser"
-  "contact"
-  "code_of_ethics_video"
-  "code_of_ethics_two_columns"
-  "code_of_ethics_text_and_image"
-  "code_of_ethics_real_situation"
-  "code_of_ethics_path_item"
-  "code_of_ethics_path"
-  "code_of_ethics_multimedia"
-  "code_of_ethics_media_gallery"
-  "code_of_ethics_complaints_management"
-  "code_of_ethics_image"
-  "code_of_ethics_carousel"
-  "tabs"
-  "tab_section"
-  "section"
-  "faq"
-  "apontador"
+  "",
+  ""
 )
 
 # Funções para colorir mensagens
