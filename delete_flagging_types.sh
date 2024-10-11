@@ -2,8 +2,8 @@
 
 # Array de tipos de "Flagging" a serem deletados (use os nomes de máquina corretos listados anteriormente)
 flagging_types_to_delete=(
-  "bookmark"
-  "like"
+  ""
+  ""
 )
 
 # Função para verificar se uma tabela existe
