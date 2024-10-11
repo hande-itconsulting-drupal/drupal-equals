@@ -2,34 +2,8 @@
 
 # Lista de tipos de conteúdo a serem deletados
 content_types=(
-  "code_of_ethics_homepage"
-  "code_of_ethics_identity_trait"
-  "code_of_ethics_subject"
-  "custom_widget"
-  "edpon_magazine"
-  #"events" - Continha registos mas não foi listado no log, portanto talvez não seja preciso deletar.
-  #"hint" - Continha registos mas não foi listado no log, portanto talvez não seja preciso deletar.
-  "infospot"
-  "infospot_accordions"
-  "infospot_faq"
-  "infospot_index"
-  "infospot_macro_activities"
-  "infospot_procedures"
-  "infospot_tabs"
-  "installation"
-  "landing_page"
-  # "news" - Continha registos mas não foi listado no log, portanto talvez não seja preciso deletar.
-  "news_comments"
-  # "page" - Continha registos mas não foi listado no log, portanto talvez não seja preciso deletar.
-  "person"
-  "person_aboutme"
-  "person_iam"
-  "person_pictures"
-  "process"
-  "resources_page"
-  "tool"
-  "video"
-  "webform"
+ ""
+ "" 
 )
 
 # Funções para colorir mensagens
