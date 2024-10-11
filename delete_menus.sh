@@ -3,9 +3,6 @@
 # Array de menus para deletar
 menus=(
   "Main Menu"
-  "Code of Ethics Main Menu EDPR"
-  "Code of Ethics Main Menu EDPPT"
-  "Code of Ethics Main Menu EDPBR"
   "Breadcrumbs Menu"
   "Administration"
 )
