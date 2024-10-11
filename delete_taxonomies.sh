@@ -2,7 +2,8 @@
 
 # Array de vocabulários para deletar
 vocabularies=(
-
+  ""
+  ""
 )
 
 # Loop através de cada vocabulário, deletar os termos de taxonomia associados e depois deletar o vocabulário
