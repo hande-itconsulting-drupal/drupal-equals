@@ -2,18 +2,8 @@
 
 # Array de tipos de "Group content" a serem deletados
 group_content_types_to_delete=(
-  "company-group_media-dw_document"
-  "company-group_membership"
-  "company-group_node-events"
-  "company-group_node-hint"
-  "company-group_node-installation"
-  "company-group_node-landing_page"
-  "company-group_node-news"
-  "company-group_node-notifications"
-  "company-group_node-page"
-  "company-group_node-person"
-  "company-group_node-tool"
-  "company-group_node-webform"
+ ""
+ ""
 )
 
 # Loop através de cada tipo de "Group content" e deletar os registros associados
